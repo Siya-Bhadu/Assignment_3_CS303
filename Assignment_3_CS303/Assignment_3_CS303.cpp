@@ -183,10 +183,12 @@ int linear_search(vector<Item_Type>& items, Item_Type& target, size_t pos_first)
 // Function to display the contents of a vector
 template <typename T>
 void display_vector(const vector<T>& vec) {
-    for (const auto& elem : vec) {
-        cout << elem << " ";
+    cout << "[ ";
+    for (size_t i = 0; i < vec.size(); i++) {
+        cout << vec[i];
+        if (i < vec.size() - 1) cout << ", ";
     }
-    cout << endl;
+    cout << " ]" << endl;
 }
 
 // Main function to perform the operations
