@@ -18,8 +18,8 @@ template <typename T>
 class Queue {
 private:
 	Node<T>* frontNode; // Front of the queue
-	Node<T>* rearNode; // Rear of the queue
-	int queueSize; // Size of the queue
+	Node<T>* rearNode;  // Rear of the queue
+	int queueSize;      // Size of the queue
 public:
 	// Constructor
 	Queue();
