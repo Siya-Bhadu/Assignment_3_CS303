@@ -1,7 +1,6 @@
 // Assignment_3_CS303.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Name: Siya Bhadu
 
-#include "Assignment_3_CS303.h"
 #include <iostream>
 #include <vector>
 using namespace std;
