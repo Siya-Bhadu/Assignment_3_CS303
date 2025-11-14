@@ -42,3 +42,4 @@ The program also implements a recursive linear search that finds the last occurr
 
 ## Sample Output
 
+<img width="1726" height="915" alt="Screenshot 2025-11-14 165629" src="https://github.com/user-attachments/assets/7e91aa20-1191-456b-84d3-ba51ae6d603d" />
